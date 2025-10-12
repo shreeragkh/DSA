@@ -10,6 +10,7 @@ A clean, categorized list of DSA problems with C++ solutions — perfect for pla
 |---|-----------|-------------|--------------------------|-------------------|
 | 1 | [Majority Element](https://github.com/shreeragkh/DSA/blob/main/majorityElement.cpp) | Easy | ⏱ O(n) / 💾 O(1) | Finds element appearing more than n/2 times using Moore’s Voting Algorithm. |
 | 2 | [Single Number](https://github.com/shreeragkh/DSA/blob/main/singleNumber.cpp) | Easy | ⏱ O(n) / 💾 O(1) | Uses XOR to find the non-repeating element. |
+| 3 | [Maximum SubArray](https://github.com/shreeragkh/DSA/blob/main/MaximumSubarray.cpp) | Medium | ⏱ O(n) / 💾 O(1) | Finds the maximum sum of a contiguous subarray using Kadane’s Algorithm. |
 <!-- | 3 | [Repeat & Missing Number]() | Easy | ⏱ O(n) / 💾 O(1) | Identifies repeated and missing elements using mathematical sums. |
 | 4 | [Merge Two Sorted Arrays without Extra Space](https://github.com/your-github-username/DSA-for-Placement/blob/main/Arrays/Merge_Two_Sorted_Arrays.cpp) | Easy | ⏱ O(n+m) / 💾 O(1) | Merges two sorted arrays in-place using the gap method. |
 | 5 | [Stock Buy & Sell](https://github.com/your-github-username/DSA-for-Placement/blob/main/Arrays/Stock_Buy_Sell.cpp) | Easy | ⏱ O(n) / 💾 O(1) | Finds max profit by tracking local minima and maxima. | -->

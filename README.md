@@ -11,6 +11,8 @@ A clean, categorized list of DSA problems with C++ solutions — perfect for pla
 | 1 | [Majority Element](https://github.com/shreeragkh/DSA/blob/main/majorityElement.cpp) | Easy | ⏱ O(n) / 💾 O(1) | Finds element appearing more than n/2 times using Moore’s Voting Algorithm. |
 | 2 | [Single Number](https://github.com/shreeragkh/DSA/blob/main/singleNumber.cpp) | Easy | ⏱ O(n) / 💾 O(1) | Uses XOR to find the non-repeating element. |
 | 3 | [Maximum SubArray](https://github.com/shreeragkh/DSA/blob/main/MaximumSubarray.cpp) | Medium | ⏱ O(n) / 💾 O(1) | Finds the maximum sum of a contiguous subarray using Kadane’s Algorithm. |
+| 4 | [Queue Operations using Array](https://github.com/shreeragkh/DSA/blob/main/queueOperations.cpp) | Easy | ⏱Enqueue: O(1) /⏱Dequeue: O(1) /⏱Peek: O(1) /⏱Display: O(n) / 💾 O(1) | A menu-driven C++ program that implements a FIFO (First-In, First-Out) queue using a dynamically allocated linear array. |
+| 5 | [Stack operations Using Array](https://github.com/shreeragkh/DSA/blob/main/stackOperations.cpp) | Easy | ⏱Push: O(1) /⏱Pop: O(1) /⏱Peek: O(1) /⏱Display: O(n) / 💾 O(n) | A menu-driven C++ program that implements all core stack operations (LIFO) using a dynamically allocated array of a fixed size. |
 <!-- | 3 | [Repeat & Missing Number]() | Easy | ⏱ O(n) / 💾 O(1) | Identifies repeated and missing elements using mathematical sums. |
 | 4 | [Merge Two Sorted Arrays without Extra Space](https://github.com/your-github-username/DSA-for-Placement/blob/main/Arrays/Merge_Two_Sorted_Arrays.cpp) | Easy | ⏱ O(n+m) / 💾 O(1) | Merges two sorted arrays in-place using the gap method. |
 | 5 | [Stock Buy & Sell](https://github.com/your-github-username/DSA-for-Placement/blob/main/Arrays/Stock_Buy_Sell.cpp) | Easy | ⏱ O(n) / 💾 O(1) | Finds max profit by tracking local minima and maxima. | -->
@@ -31,6 +33,8 @@ A clean, categorized list of DSA problems with C++ solutions — perfect for pla
 | 8 | [Valid Parentheses](https://github.com/shreeragkh/DSA/blob/main/ValidParentheses.cpp) | Easy | ⏱ O(n) / 💾 O(n) | Checks for balanced brackets using stack matching pairs. |
 | 9 | [Valid String Parentheses (with *)](https://github.com/shreeragkh/DSA/blob/main/validStringparenthesis.cpp) | Medium | ⏱ O(n) / 💾 O(n) | Uses two stacks to handle wildcard '*' in parentheses balancing. |
 | 10 | [Remove K Digits](https://github.com/shreeragkh/DSA/blob/main/removeKdigits.cpp) | Medium | ⏱ O(n) / 💾 O(n) | Builds smallest number by removing k digits greedily using stack. |
+| 11 | [Postfix Evaluation](https://github.com/shreeragkh/DSA/blob/main/postfixEvaluation.cpp) | Medium | ⏱ O(n) / 💾 O(n) | A C++ program that evaluates a single-digit postfix (Reverse Polish Notation) expression using a stack. |
+| 11 | [Infinix to Postfix](https://github.com/shreeragkh/DSA/blob/main/infinixTopostfix.cpp) | Medium | ⏱ O(n) / 💾 O(n) | A C++ program that converts a given infix expression to its equivalent postfix (Reverse Polish Notation) expression using a stack. |
 
 ---
 
@@ -43,11 +47,21 @@ A clean, categorized list of DSA problems with C++ solutions — perfect for pla
 
 ---
 
+## 🔗 Graph
+
+| # | Question | Difficulty | Time & Space Complexity | Short Description |
+|---|-----------|-------------|--------------------------|-------------------|
+| 1 | [ADjacency List using vectors](https://github.com/shreeragkh/DSA/blob/main/AdjacencyList.cpp) | Medium | ⏱ Add Edge: 0(1) /⏱ BFS Traversal: 0(V + E) /⏱ Print Graph: 0(V + E) / 💾 O(V + E) | A C++ program that implements a graph using an adjacency list and provides a Breadth-First Search (BFS) traversal. |
+|
+
+---
+
 ## 🗂️ CATEGORIES COVERED
 
 ✅ Arrays  
 ✅ Stack & Queue  
-✅ Linked List  
+✅ Linked List 
+✅ Graph 
 
 ---
 

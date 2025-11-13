@@ -19,3 +19,12 @@ infinixTopostfix
 postfixEvaluation
 queueOperations
 stackOperations
+reverseSinglyLinkedList
+mergeTwoLinkedlist
+removeDuplicatefromLinkedlist
+rotatingCircularLinkedlist
+BFS
+dfs
+floydWarshallsAlgorithm
+HeightofTree
+InsertionSort
